@@ -1,0 +1,7 @@
+name: SagirlProtect
+version: ${project.version}
+main: com.beigua.sagirlprotect.SagirlProtect
+api-version: 1.19
+authors: [Bei_Gua_]
+depend:
+  - MiraiMC
